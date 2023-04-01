@@ -1,17 +1,18 @@
 # Logs
-logs
-*.log
-npm-debug.log*
+WebDriverIO/logs
+WebDriverIO/*.log
+WebDriverIO/npm-debug.log*
 # Dependency directories
-node_modules/
-jsconfig.json
-allure-results/
-allure-report/
+WebDriverIO/node_modules/
+WebDriverIO/jsconfig.json
+WebDriverIO/allure-results/
+WebDriverIO/allure-report/
 # Local
-elementsTest.js
-test1.js
-loginTest.js
+WebDriverIO/elementsTest.js
+WebDriverIO/test/specs/test1.js
+WebDriverIO/test/specs/baseTest.js
+WebDriverIO/test/specs/loginTest.js
+WebDriverIO/test/specs/elementsTest.js
 .vscode
-data/
-pageobjects/
-baseTest.js
+WebDriverIO/test/data/
+WebDriverIO/test/pageobjects/
