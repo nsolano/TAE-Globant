@@ -7,12 +7,5 @@ WebDriverIO/node_modules/
 WebDriverIO/jsconfig.json
 WebDriverIO/allure-results/
 WebDriverIO/allure-report/
-# Local
-WebDriverIO/elementsTest.js
-WebDriverIO/test/specs/test1.js
-WebDriverIO/test/specs/baseTest.js
-WebDriverIO/test/specs/loginTest.js
-WebDriverIO/test/specs/elementsTest.js
-.vscode
-WebDriverIO/test/data/
-WebDriverIO/test/pageobjects/
+
+

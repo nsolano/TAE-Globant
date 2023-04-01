@@ -22,8 +22,7 @@
   },
   "scripts": {
     "AllTest": "wdio run ./wdio.conf.js",
-    "oneTest": "wdio run ./wdio.conf.js --spec ./test/specs/verifytextTest.js",
-    "baseTest": "wdio run ./wdio.conf.js --spec ./test/specs/baseTest.js",    
+    "oneTest": "wdio run ./wdio.conf.js --spec ./test/specs/verifytextMochaTest.js",        
     "runSuite": "wdio wdio.conf.js --suite end2end",
     "allureReport": "allure generate allure-results/ --clean && allure open"
   },
